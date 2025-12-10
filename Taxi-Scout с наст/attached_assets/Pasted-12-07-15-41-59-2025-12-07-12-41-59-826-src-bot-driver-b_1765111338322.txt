@@ -1,0 +1,49 @@
+12-07 15:41:59
+2025-12-07 12:41:59,826 - src.bot.driver_bot - INFO - Bot commands menu cleared
+12-07 15:41:59
+2025-12-07 12:41:59,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/deleteWebhook "HTTP/1.1 200 OK"
+12-07 15:41:59
+2025-12-07 12:41:59,946 - __main__ - INFO - Multi-user monitor initialized
+12-07 15:41:59
+2025-12-07 12:41:59,946 - __main__ - INFO - Order matcher initialized
+12-07 15:41:59
+2025-12-07 12:41:59,946 - src.parser.multi_user_monitor - INFO - Starting multi-user monitor...
+12-07 15:41:59
+2025-12-07 12:41:59,946 - __main__ - INFO - Starting multi-user group monitoring...
+12-07 15:41:59
+2025-12-07 12:41:59,946 - __main__ - INFO - Driver bot started
+12-07 15:41:59
+2025-12-07 12:41:59,946 - src.bot.driver_bot - INFO - Driver bot started in async mode
+12-07 15:42:00
+2025-12-07 12:42:00,083 - src.parser.multi_user_monitor - INFO - Found 2 authorized users
+12-07 15:42:00
+2025-12-07 12:42:00,084 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+12-07 15:42:00
+2025-12-07 12:42:00,202 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+12-07 15:42:00
+2025-12-07 12:42:00,481 - src.parser.multi_user_monitor - ERROR - Error starting monitor for user 1: The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by InvokeWithLayerRequest(InitConnectionRequest(GetConfigRequest)))
+12-07 15:42:00
+2025-12-07 12:42:00,482 - src.parser.multi_user_monitor - WARNING - Failed to start monitor for user 1
+12-07 15:42:00
+2025-12-07 12:42:00,482 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+12-07 15:42:00
+2025-12-07 12:42:00,481 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+12-07 15:42:00
+2025-12-07 12:42:00,483 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+12-07 15:42:00
+2025-12-07 12:42:00,598 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+12-07 15:42:04
+2025-12-07 12:42:04,229 - src.parser.multi_user_monitor - INFO - User 2 cached dialogs with 462 ID mappings
+12-07 15:42:04
+2025-12-07 12:42:04,323 - src.parser.multi_user_monitor - INFO - Started monitor for user 2
+12-07 15:42:04
+2025-12-07 12:42:04,322 - src.parser.multi_user_monitor - INFO - User 2 resolved 2 group mappings for 1 subscriptions
+12-07 15:42:04
+2025-12-07 12:42:04,323 - src.parser.multi_user_monitor - INFO - User 2 monitoring 2 groups
+12-07 15:42:04
+2025-12-07 12:42:04,323 - src.parser.multi_user_monitor - INFO - User 2 monitoring 2 groups
+12-07 15:42:04
+2025-12-07 12:42:04,322 - src.parser.multi_user_monitor - INFO - User 2 resolved 2 group mappings for 1 subscriptions
+
+12-07 15:42:04
+2025-12-07 12:42:04,323 - src.parser.multi_user_monitor - INFO - Started monitor for user 2

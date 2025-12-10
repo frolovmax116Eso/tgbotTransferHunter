@@ -1,0 +1,61 @@
+12-07 15:59:04
+2025-12-07 12:59:04,194 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+
+12-07 15:59:04
+2025-12-07 12:59:04,194 - src.parser.multi_user_monitor - ERROR - Error starting monitor for user 1: The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by InvokeWithLayerRequest(InitConnectionRequest(GetConfigRequest)))
+12-07 15:59:04
+2025-12-07 12:59:04,195 - src.parser.multi_user_monitor - WARNING - Failed to start monitor for user 1
+12-07 15:59:04
+2025-12-07 12:59:04,195 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+12-07 15:59:04
+2025-12-07 12:59:04,196 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+12-07 15:59:04
+2025-12-07 12:59:04,311 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+12-07 15:59:08
+2025-12-07 12:59:08,192 - src.parser.multi_user_monitor - INFO - User 2 cached dialogs with 462 ID mappings
+12-07 15:59:08
+2025-12-07 12:59:08,283 - src.parser.multi_user_monitor - INFO - User 2 resolved 2 group mappings for 1 subscriptions
+12-07 15:59:08
+2025-12-07 12:59:08,284 - src.parser.multi_user_monitor - INFO - User 2 monitoring 2 groups
+12-07 15:59:08
+2025-12-07 12:59:08,284 - src.parser.multi_user_monitor - INFO - Started monitor for user 2
+12-07 15:59:14
+2025-12-07 12:59:14,140 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:59:24
+2025-12-07 12:59:24,258 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:59:34
+2025-12-07 12:59:34,375 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:59:44
+2025-12-07 12:59:44,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:59:54
+2025-12-07 12:59:54,626 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:04
+2025-12-07 13:00:04,744 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:06
+2025-12-07 13:00:06,549 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:07
+2025-12-07 13:00:07,314 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/sendMessage "HTTP/1.1 200 OK"
+12-07 16:00:09
+2025-12-07 13:00:09,873 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:10
+2025-12-07 13:00:10,196 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/sendMessage "HTTP/1.1 200 OK"
+12-07 16:00:15
+2025-12-07 13:00:15,633 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:16
+2025-12-07 13:00:16,174 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/answerCallbackQuery "HTTP/1.1 200 OK"
+12-07 16:00:16
+2025-12-07 13:00:16,175 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+12-07 16:00:16
+2025-12-07 13:00:16,292 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+12-07 16:00:16
+2025-12-07 13:00:16,603 - src.bot.driver_bot - ERROR - Telethon send error: The authorization key (session file) was used under two different IP addresses simultaneously, and can no longer be used. Use the same session exclusively, or use different sessions (caused by InvokeWithLayerRequest(InitConnectionRequest(GetConfigRequest)))
+12-07 16:00:16
+2025-12-07 13:00:16,603 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+12-07 16:00:16
+2025-12-07 13:00:16,603 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+12-07 16:00:16
+2025-12-07 13:00:16,759 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/sendMessage "HTTP/1.1 200 OK"
+12-07 16:00:25
+2025-12-07 13:00:25,928 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 16:00:25
+2025-12-07 13:00:25,928 - httpx - INFO - HTTP 

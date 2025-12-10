@@ -1,0 +1,96 @@
+{
+  "2770911077_24": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 2025,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/24",
+    "timestamp": "2025-12-06T14:17:52.925950",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "2770911077_25": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 4500,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/25",
+    "timestamp": "2025-12-06T14:19:24.485577",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "2770911077_26": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 4500,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/26",
+    "timestamp": "2025-12-06T14:24:42.877874",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "2770911077_27": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 4500,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/27",
+    "timestamp": "2025-12-06T14:28:53.611667",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "2770911077_28": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 4500,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/28",
+    "timestamp": "2025-12-06T14:37:24.062411",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "2770911077_29": {
+    "point_a": "Алапаевск",
+    "point_b": "Екатеринбург",
+    "price": 4500,
+    "region": "ekaterinburg",
+    "source_link": "https://t.me/c/2770911077/29",
+    "timestamp": "2025-12-06T14:39:09.352040",
+    "point_a_coords": [
+      57.850811,
+      61.695
+    ],
+    "point_b_coords": null
+  },
+  "1945539589_46": {
+    "point_a": "Челябинск",
+    "point_b": "Ульяновск",
+    "price": 25000,
+    "region": "chelyabinsk",
+    "source_link": "https://t.me/c/1945539589/46",
+    "timestamp": "2025-12-06T14:39:45.682398",
+    "point_a_coords": [
+      55.1598408,
+      61.4025547
+    ],
+    "point_b_coords": [
+      54.3150278,
+      48.403373
+    ]
+  }
+}

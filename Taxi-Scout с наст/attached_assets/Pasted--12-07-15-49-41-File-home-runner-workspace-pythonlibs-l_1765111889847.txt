@@ -1,0 +1,55 @@
+
+12-07 15:49:41
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 676, in get_updates
+12-07 15:49:47
+return await self._do_post(
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^^
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 703, in _post
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 732, in _do_post
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 676, in get_updates
+12-07 15:49:47
+action_cb_task.result()
+12-07 15:49:47
+updates = await self.bot.get_updates(
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_utils/networkloop.py", line 127, in do_action
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^
+12-07 15:49:47
+result = await self._request_wrapper(
+12-07 15:49:47
+updates = await super().get_updates(
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_utils/networkloop.py", line 134, in network_retry_loop
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+12-07 15:49:47
+result = await request.post(
+12-07 15:49:47
+File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 375, in _request_wrapper
+12-07 15:49:47
+^^^^^^^^^^^^^^^^^^^^^^^
+12-07 15:49:59
+2025-12-07 12:49:59,218 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:50:09
+2025-12-07 12:50:09,337 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:50:13
+2025-12-07 12:50:13,900 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:50:14
+2025-12-07 12:50:14,947 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/sendMessage "HTTP/1.1 200 OK"
+12-07 15:50:21
+2025-12-07 12:50:21,112 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"
+12-07 15:50:21
+2025-12-07 12:50:21,588 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/sendMessage "HTTP/1.1 200 OK"
+12-07 15:50:24
+2025-12-07 12:50:24,451 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8435544593:AAFqVJXUJn4Uvm8cpz8Mrc84Na4w3fjPyMY/getUpdates "HTTP/1.1 200 OK"

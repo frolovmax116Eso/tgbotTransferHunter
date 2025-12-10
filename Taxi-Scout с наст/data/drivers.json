@@ -1,0 +1,13 @@
+{
+  "5782455721": {
+    "telegram_id": 5782455721,
+    "username": "artem96taxi",
+    "first_name": "Артëм",
+    "latitude": 56.989254,
+    "longitude": 60.476428,
+    "radius_km": 500,
+    "min_price": 3000,
+    "city_name": "Координаты: 56.9893, 60.4764",
+    "active": true
+  }
+}
